@@ -1,7 +1,7 @@
 # Instrument-Separator-UNet
 A supervised, deep learning project using the U-Net model to accurately separate individual musical instruments from audio recordings.
 
-* _Teammates_ : Ayush Agarwal , Akshita Gupta
+* _Teammates_ : Ayush Agarwal (ECE IIT BHU) , Akshita Gupta (Mech IIT BHU )
 * _Project domain_ : Machine Learning (ML) , Deep Learning (DL) , Natural Language Processing (NLP)
 * _Tools Used_ : Tensorflow , Python , Jupyter Notebook
 * _Domain Knowledge_ : Music Source Separation problem , U-Nets
