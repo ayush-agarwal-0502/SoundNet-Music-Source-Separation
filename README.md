@@ -6,7 +6,7 @@ A supervised, deep learning project using the U-Net model to accurately separate
 * _Tools Used_ : Tensorflow , Python , Jupyter Notebook
 * _Domain Knowledge_ : Music Source Separation problem , U-Nets
 
-..............................![image](https://github.com/AkGu2002/Instrument-Separator-UNet/assets/74046369/3df2ba23-bd80-4d45-93c3-e2b4ca92a6c0)
+.................![image](https://github.com/AkGu2002/Instrument-Separator-UNet/assets/74046369/3df2ba23-bd80-4d45-93c3-e2b4ca92a6c0)
 ![image](https://github.com/AkGu2002/Instrument-Separator-UNet/assets/74046369/4add7e84-e0ba-43d5-b895-6b3334a0c0a3)
 ![image](https://github.com/AkGu2002/Instrument-Separator-UNet/assets/74046369/f17657dc-139d-487f-875c-9b716957f7c2)
 
