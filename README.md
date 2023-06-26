@@ -6,11 +6,9 @@ A supervised, deep learning project using the U-Net model to accurately separate
 * _Tools Used_ : Tensorflow , Python , Jupyter Notebook
 * _Domain Knowledge_ : Music Source Separation problem , U-Nets
 
-.................![image](https://github.com/AkGu2002/Instrument-Separator-UNet/assets/74046369/3df2ba23-bd80-4d45-93c3-e2b4ca92a6c0)
-![image](https://github.com/AkGu2002/Instrument-Separator-UNet/assets/74046369/4add7e84-e0ba-43d5-b895-6b3334a0c0a3)
-![image](https://github.com/AkGu2002/Instrument-Separator-UNet/assets/74046369/f17657dc-139d-487f-875c-9b716957f7c2)
+.................[Screenshot 2023-06-26 073811](https://github.com/AkGu2002/Instrument-Separator-UNet/assets/74046369/9ebcd7da-5255-4dc3-b2a5-fb38dde82da3)
+## About the project - Problem Statement and our INNOVATION!
 
-## About the project - Problem Statement and our INNOVATION
 
 After some research , we found out that most of the present solutions that exist for the source separation problem were based on taking the Fourier Transform of the audio , studying the characteristic frequency spectrum of a particular source type , then masking that particular band out . I was aware from my experience in computer vision already that U-Nets have been used since a long time (ok few years) for Image Segmentation problems , but could not find much work upon U-Nets being used over audio datasets . Since in a way thinking about source separation problem , we are segmenting the different frequency bands of the audio sample , hence I felt that U-Nets could be potentially useful for source separation problem too . Hence we decided to give our own novel and naive innovation an attempt . 
 
